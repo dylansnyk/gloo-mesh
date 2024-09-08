@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.19.4
 
 # installs public root certs
 # needed to establish trust with third party sources
